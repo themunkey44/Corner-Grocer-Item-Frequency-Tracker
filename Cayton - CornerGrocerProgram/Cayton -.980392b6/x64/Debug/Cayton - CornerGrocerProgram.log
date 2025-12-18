@@ -1,0 +1,4 @@
+﻿  ItemList.cpp
+C:\Users\Ottai\OneDrive\Documents\Visual Studio 2022\C++\Cayton - CornerGrocerProgram\ItemList.cpp(53,34): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ottai\OneDrive\Documents\Visual Studio 2022\C++\Cayton - CornerGrocerProgram\ItemList.cpp(113,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Cayton - CornerGrocerProgram.vcxproj -> C:\Users\Ottai\OneDrive\Documents\Visual Studio 2022\C++\Cayton - CornerGrocerProgram\x64\Debug\Cayton - CornerGrocerProgram.exe
